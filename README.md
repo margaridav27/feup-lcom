@@ -1,8 +1,9 @@
-# LCOM Project
+# feup-lcom
 
-LCOM Project for group T&lt;1&gt;G&lt;0&gt;&lt;4&gt;.
+Labs and project developed during the semester with Beatriz Aguiar (beatriz-ag, https://github.com/beatriz-ag).
 
-Group members:
 
-1. &lt;Beatriz&gt; &lt;Aguiar&gt; (&lt;up201906230@fe.up.pt&gt;)
-2. &lt;Margarida&gt; &lt;Vieira&gt; (&lt;up201907907@fe.up.pt&gt;)
+## Disclaimer
+This repository, and every other feup-course* repos on GitHub correspond to school projects from the respective course. The code on this repo is intended for educational purposes. I do not take any responsibility, liability or whateverity over any code faults, inconsistency or anything else. If you intend on copying most or parts of the code for your school projects, keep in mind that this repo is public, and that your professor might search the web for similar project solutions or whatnot and choose to fail you for copying.
+
+(Credits to Miguel Pereira Duarte (miguelpduarte , https://github.com/miguelpduarte) for the README layout)
