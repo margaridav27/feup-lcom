@@ -1,0 +1,16 @@
+<map id="move_santa_keyboard" name="move_santa_keyboard">
+<area shape="rect" id="node1" title="Checks the player&#39;s moves, keyboard input,and updates the sprite displayed accordingly." alt="" coords="5,177,156,204"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#aecf1bc915c3c830004830b19a827349c" title="Checks the player&#39;s colisions and changes its position accordingly (incrementing the position with th..." alt="" coords="227,81,338,108"/>
+<area shape="rect" id="node5" href="$game__ctrl_8c.html#afde6299af1d913b49962a8f692b1434d" title="Changes the player sprite displayed with the sprite passed as parameter." alt="" coords="440,107,519,133"/>
+<area shape="rect" id="node6" href="$game__ctrl_8c.html#a1b7d800d6e3d179443fe2f165e0ad481" title="Displays the background whilst playing mode." alt="" coords="204,208,361,235"/>
+<area shape="rect" id="node14" href="$game__ctrl_8c.html#ab544baafffee12abb6ce174f161e4709" title="updates the sea moving pos" alt="" coords="224,259,341,285"/>
+<area shape="rect" id="node3" href="$game__ctrl_8c.html#a4bf6dacf47702696c02be6d41c134d35" title="Verifies if the player is standing in a platform." alt="" coords="409,5,549,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="863,183,941,209"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="435,157,523,184"/>
+<area shape="rect" id="node8" href="$game__ctrl_8c.html#a97a9784941141d4e16eada735eee1493" title="Displays the game time count down." alt="" coords="412,208,547,235"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="597,259,692,285"/>
+<area shape="rect" id="node12" href="$game__ctrl_8c.html#a571515a2c4f1ee4512065811313c88ee" title="Displays the presents." alt="" coords="419,309,539,336"/>
+<area shape="rect" id="node13" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="431,360,528,387"/>
+<area shape="rect" id="node10" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="863,259,941,285"/>
+<area shape="rect" id="node11" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="740,233,815,260"/>
+</map>

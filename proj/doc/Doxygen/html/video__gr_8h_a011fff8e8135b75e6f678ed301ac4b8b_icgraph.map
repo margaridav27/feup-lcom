@@ -1,0 +1,6 @@
+<map id="set_info" name="set_info">
+<area shape="rect" id="node1" title="Initializes global variables of the mode just set." alt="" coords="405,5,472,32"/>
+<area shape="rect" id="node2" href="$video__gr_8h.html#aa6c1ff5024cd4d15e476bce487584daa" title="Initializes the video module in graphics mode." alt="" coords="299,5,357,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a201f65f3d921ab7418f95285aed78d1d" title="Sets graphic mode." alt="" coords="163,5,251,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

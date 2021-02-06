@@ -1,0 +1,13 @@
+<map id="restore" name="restore">
+<area shape="rect" id="node1" title="Restores all data changed, frees memory and sets text mode." alt="" coords="5,148,68,175"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a1102381e6a9e876e05dd78c58ccb5673" title="Unsubscribes KBC interrupts by calling sys_rmsetpolicy()" alt="" coords="125,5,266,32"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#ac13ad81d843b4d50815de4b20a28db53" title="Disables mouse data reporting." alt="" coords="125,57,266,98"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts by calling sys_rmsetpolicy()" alt="" coords="116,123,275,149"/>
+<area shape="rect" id="node8" href="$rtc_8c.html#a4e08b1ce7105690f3ad7f6fb23c47437" title="Disables RTC interrupts of the specified source." alt="" coords="139,173,252,200"/>
+<area shape="rect" id="node10" href="$rtc_8c.html#ab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC interrupts by calling sys_rmsetpolicy()" alt="" coords="128,224,263,251"/>
+<area shape="rect" id="node11" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title=" " alt="" coords="121,275,270,301"/>
+<area shape="rect" id="node4" href="$kbc_8c.html#af2e8635539ea217a847ef90c3cf5d714" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="353,43,427,69"/>
+<area shape="rect" id="node6" href="$kbc_8c.html#a6da15cccd098edde3a7c6fec6da4a8ef" title="Writes cmd in port register." alt="" coords="351,93,429,120"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="505,93,596,120"/>
+<area shape="rect" id="node9" href="$rtc_8c.html#a5134ed87587575deb583fb081d586d6f" title="Writes to RTC port 0x70." alt="" coords="323,195,457,221"/>
+</map>

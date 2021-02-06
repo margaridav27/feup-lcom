@@ -1,0 +1,5 @@
+<map id="update_time" name="update_time">
+<area shape="rect" id="node1" title="Updates the time array." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="155,5,265,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a9e906fff7476aab5ce431a977ef3033d" title=" " alt="" coords="147,56,273,83"/>
+</map>

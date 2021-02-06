@@ -1,0 +1,10 @@
+<map id="display_time" name="display_time">
+<area shape="rect" id="node1" title="Displays the real time." alt="" coords="5,93,100,120"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="148,43,243,69"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="465,81,544,108"/>
+<area shape="rect" id="node6" href="$game__ctrl_8c.html#ad61a080e275c71ef3e109c0a28cf9ab7" title="Updates the time array." alt="" coords="149,144,242,171"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="466,5,543,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="317,43,391,69"/>
+<area shape="rect" id="node7" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="299,144,409,171"/>
+<area shape="rect" id="node8" href="$rtc_8c.html#a9e906fff7476aab5ce431a977ef3033d" title=" " alt="" coords="291,195,417,221"/>
+</map>

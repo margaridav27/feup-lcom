@@ -1,0 +1,5 @@
+<map id="mouse_events_handler" name="mouse_events_handler">
+<area shape="rect" id="node1" title="changes game state according to mouse&#39;s input" alt="" coords="5,35,160,61"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a489181f433b47ad63c2cf3bd191c6b69" title="Checks whether or not the a certain button (received as parameter) was pressed." alt="" coords="235,5,335,32"/>
+<area shape="rect" id="node3" href="$game__ctrl_8c.html#abe4adf18fedc343dbe650025505c882f" title="Changes santa state according to mouse&#39;s input." alt="" coords="208,57,363,98"/>
+</map>

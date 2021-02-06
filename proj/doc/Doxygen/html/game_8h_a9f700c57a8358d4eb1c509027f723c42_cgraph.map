@@ -1,0 +1,25 @@
+<map id="set_up" name="set_up">
+<area shape="rect" id="node1" title="Subscribes interruptions and allocates memory." alt="" coords="5,309,67,336"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a8d41c12af4f6e6faad84e1f21f99b3e1" title="Displays the loading background." alt="" coords="365,411,452,437"/>
+<area shape="rect" id="node9" href="$keyboard_8c.html#a02884ada1971dbade466081413210b18" title="Subscribes KBC interrupts by calling sys_irqsetpolicy()" alt="" coords="141,107,267,133"/>
+<area shape="rect" id="node10" href="$game_8c.html#ac82e7d55ed069f5d0c396c20b97337e9" title="Load all the xpms to sprites and allocates them." alt="" coords="161,208,247,235"/>
+<area shape="rect" id="node12" href="$mouse_8c.html#a108813d01ba189cc8bb0dca728c932a8" title="Enables mouse data reporting." alt="" coords="115,56,293,83"/>
+<area shape="rect" id="node16" href="$mouse_8c.html#a20285aed4b3ef45812cd967532dd09db" title="Subscribes mouse interrupts by calling sys_irqsetpolicy()" alt="" coords="131,259,277,285"/>
+<area shape="rect" id="node17" href="$rtc_8c.html#ae075416c1ec70e87c51a1ddb5a7b9a0c" title="Enables RTC interrupts of the specified source." alt="" coords="149,157,259,184"/>
+<area shape="rect" id="node19" href="$rtc_8c.html#a5171a9c0f54940fe60f7500896afcc86" title="Subscribes RTC interrupts by calling sys_irqsetpolicy()" alt="" coords="143,360,265,387"/>
+<area shape="rect" id="node20" href="$game_8c.html#a95edbf924168631347cacfaf4c3c226f" title="Sets the buttons&#39;s positions." alt="" coords="159,411,249,437"/>
+<area shape="rect" id="node21" href="$game_8c.html#a9faa47e1e7764275b1092fcc3dbb3f2f" title="Sets the platforms&#39;s positions." alt="" coords="154,461,254,488"/>
+<area shape="rect" id="node22" href="$game_8c.html#ac1d6bd6181518ec126e1f66cf20e1134" title="Sets the present&#39;s positions." alt="" coords="155,512,253,539"/>
+<area shape="rect" id="node23" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title=" " alt="" coords="137,563,271,589"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="529,360,617,387"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="525,411,620,437"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="524,461,621,488"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="793,385,870,412"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="669,436,744,463"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="792,436,871,463"/>
+<area shape="rect" id="node11" href="$game_8c.html#a885c32b4240fbfcaab2a1e74a733f0d3" title="Creates a sprite from a xpm file." alt="" coords="369,208,448,235"/>
+<area shape="rect" id="node13" href="$kbc_8c.html#af2e8635539ea217a847ef90c3cf5d714" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="371,5,446,32"/>
+<area shape="rect" id="node15" href="$kbc_8c.html#a6da15cccd098edde3a7c6fec6da4a8ef" title="Writes cmd in port register." alt="" coords="370,56,447,83"/>
+<area shape="rect" id="node14" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="527,56,618,83"/>
+<area shape="rect" id="node18" href="$rtc_8c.html#a5134ed87587575deb583fb081d586d6f" title="Writes to RTC port 0x70." alt="" coords="341,157,476,184"/>
+</map>

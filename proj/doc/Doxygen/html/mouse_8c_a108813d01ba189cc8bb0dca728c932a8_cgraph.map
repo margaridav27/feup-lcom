@@ -1,0 +1,6 @@
+<map id="mouse_enable_data_report" name="mouse_enable_data_report">
+<area shape="rect" id="node1" title="Enables mouse data reporting." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$kbc_8c.html#af2e8635539ea217a847ef90c3cf5d714" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="233,5,308,32"/>
+<area shape="rect" id="node4" href="$kbc_8c.html#a6da15cccd098edde3a7c6fec6da4a8ef" title="Writes cmd in port register." alt="" coords="232,56,309,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="357,31,448,57"/>
+</map>

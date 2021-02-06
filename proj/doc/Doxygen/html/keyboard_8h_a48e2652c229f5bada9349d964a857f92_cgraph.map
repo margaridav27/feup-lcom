@@ -1,0 +1,7 @@
+<map id="kbc_get_command" name="kbc_get_command">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a978c37bd6eca1b2724372aee45770670" title=" " alt="" coords="185,5,331,32"/>
+<area shape="rect" id="node5" href="$kbc_8c.html#af2e8635539ea217a847ef90c3cf5d714" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="380,56,455,83"/>
+<area shape="rect" id="node3" href="$kbc_8c.html#a6da15cccd098edde3a7c6fec6da4a8ef" title="Writes cmd in port register." alt="" coords="379,5,456,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="504,31,595,57"/>
+</map>

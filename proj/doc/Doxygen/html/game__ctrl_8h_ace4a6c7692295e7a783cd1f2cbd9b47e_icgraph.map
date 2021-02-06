@@ -1,0 +1,6 @@
+<map id="move_santa_mouse" name="move_santa_mouse">
+<area shape="rect" id="node1" title="Checks the player&#39;s moves, mouse input,and updates the sprite displayed accordingly." alt="" coords="400,5,537,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="289,5,352,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,5,241,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

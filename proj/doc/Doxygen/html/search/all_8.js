@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['i_87',['i',['../game_8c.html#acb559820d9ca11295b4500f179ef6392',1,'i():&#160;game.c'],['../game__ctrl_8h.html#acb559820d9ca11295b4500f179ef6392',1,'i():&#160;game.c']]],
+  ['ibf_88',['IBF',['../macros_8h.html#a3c48b10907056351582baf9f6478598e',1,'macros.h']]],
+  ['iglo_89',['IGLO',['../game__ctrl_8h.html#ab0edca8721ed515bb9906f1c3e538c60a2dcf30c4cefc92c004d9acd55e46bb10',1,'game_ctrl.h']]],
+  ['in_5fpos_5fx_90',['IN_POS_X',['../macros_8h.html#a8a86551c7962071644ca04133575369e',1,'macros.h']]],
+  ['init_5fgame_91',['init_game',['../game_8c.html#a98396a1f6335b374d8b9bd3cd5376a6a',1,'init_game():&#160;game.c'],['../game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a',1,'init_game():&#160;game.c']]],
+  ['init_5fmenu_5fsp_92',['init_menu_sp',['../structbackgrounds__.html#a438e88c65fb0f0b010c7dcdb485954ec',1,'backgrounds_']]],
+  ['initmenu_93',['INITMENU',['../game__ctrl_8h.html#ab0edca8721ed515bb9906f1c3e538c60aa21cda04af2718ea4b7f2c2e9cad27d2',1,'game_ctrl.h']]],
+  ['instructions_94',['INSTRUCTIONS',['../game__ctrl_8h.html#ab0edca8721ed515bb9906f1c3e538c60a2a3b2d79801adcf99fc1d4565dc6f825',1,'game_ctrl.h']]],
+  ['instructions_5ffront_95',['instructions_front',['../structbackgrounds__.html#a22119bd0bfae75b786536b749ec7e1f7',1,'backgrounds_']]],
+  ['instructions_5fhome_5fbutton_96',['instructions_home_button',['../structbuttons__.html#a0950a58f71c147dcff004ce6ca6df22b',1,'buttons_::instructions_home_button()'],['../macros_8h.html#a84dbf2ade2a8ec43ba2d3fc0b0038e6a',1,'INSTRUCTIONS_HOME_BUTTON():&#160;macros.h']]],
+  ['instructions_5fmenu_97',['INSTRUCTIONS_MENU',['../game__ctrl_8h.html#ab0edca8721ed515bb9906f1c3e538c60a2756221a270a2a86f54dbb1f171953bf',1,'game_ctrl.h']]],
+  ['instructions_5fsp_98',['instructions_sp',['../structbackgrounds__.html#a20802be34bbad8ffbb630137a6155441',1,'backgrounds_']]],
+  ['instructions_5ftxt_99',['instructions_txt',['../structbackgrounds__.html#a7a6b64caa1ec5624f5eb82577fe26034',1,'backgrounds_']]],
+  ['int_100',['INT',['../macros_8h.html#afeeffe52c8fd59db7c61cf8b02042dbf',1,'macros.h']]],
+  ['int2_101',['INT2',['../macros_8h.html#ab254a5a335276357f63779cda0b8e44f',1,'macros.h']]],
+  ['interface_2ec_102',['interface.c',['../interface_8c.html',1,'']]],
+  ['interface_2eh_103',['interface.h',['../interface_8h.html',1,'']]]
+];

@@ -1,0 +1,9 @@
+<map id="rtc_ih" name="rtc_ih">
+<area shape="rect" id="node1" title="Handles interrupts of the specified source from RTC." alt="" coords="5,83,60,109"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#ab18926f2a361c4e867d2632946c6d2f6" title="Reads the time information and outputs it to the proper data structure." alt="" coords="108,120,209,147"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#aeaa3a089f90cc0df984d26b0d97bb543" title="Checks if one can read from RTC, meaning bit 7 of register A is not set." alt="" coords="257,31,393,57"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a5134ed87587575deb583fb081d586d6f" title="Writes to RTC port 0x70." alt="" coords="441,56,576,83"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="463,208,554,235"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="271,132,380,159"/>
+<area shape="rect" id="node7" href="$rtc_8c.html#a6fa973d346d15a88d368e39743b67d85" title="Sets RTC to ouput data in BCD format." alt="" coords="277,183,373,209"/>
+</map>

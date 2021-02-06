@@ -1,0 +1,6 @@
+<map id="vg_init" name="vg_init">
+<area shape="rect" id="node1" title="Initializes the video module in graphics mode." alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#a78da6e050963c0e4d69b3b338212eb27" title="Gets information about the specified VBE mode and outputs it to the propor data structure." alt="" coords="112,5,219,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ac897340cf634de334690b06519f1b267" title="Maps memory into the current process adress space." alt="" coords="134,56,197,83"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a011fff8e8135b75e6f678ed301ac4b8b" title="Initializes global variables of the mode just set." alt="" coords="132,107,199,133"/>
+</map>

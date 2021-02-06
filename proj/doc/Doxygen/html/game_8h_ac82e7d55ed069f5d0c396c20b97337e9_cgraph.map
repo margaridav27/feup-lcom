@@ -1,0 +1,11 @@
+<map id="load_xpms" name="load_xpms">
+<area shape="rect" id="node1" title="Load all the xpms to sprites and allocates them." alt="" coords="5,81,91,108"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a8d41c12af4f6e6faad84e1f21f99b3e1" title="Displays the loading background." alt="" coords="139,56,225,83"/>
+<area shape="rect" id="node9" href="$game_8c.html#a885c32b4240fbfcaab2a1e74a733f0d3" title="Creates a sprite from a xpm file." alt="" coords="143,107,221,133"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="278,5,366,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="275,56,369,83"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="273,107,371,133"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="542,31,619,57"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="419,81,493,108"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="541,81,620,108"/>
+</map>

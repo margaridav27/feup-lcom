@@ -1,0 +1,8 @@
+<map id="display_time" name="display_time">
+<area shape="rect" id="node1" title="Displays the real time." alt="" coords="663,31,757,57"/>
+<area shape="rect" id="node2" href="$game__ctrl_8h.html#aa2eb9ba074b23fc3b4a91c98e0c83c8b" title="Displays the background and cursor." alt="" coords="505,31,615,57"/>
+<area shape="rect" id="node3" href="$game_8h.html#ad74637df8ab081f644cb8f2175df273f" title="Pause menu loop." alt="" coords="400,5,457,32"/>
+<area shape="rect" id="node4" href="$game_8h.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="289,31,352,57"/>
+<area shape="rect" id="node5" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

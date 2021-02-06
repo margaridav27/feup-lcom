@@ -1,0 +1,14 @@
+<map id="kbc_read" name="kbc_read">
+<area shape="rect" id="node1" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="703,132,777,159"/>
+<area shape="rect" id="node2" href="$keyboard_8h.html#a48e2652c229f5bada9349d964a857f92" title=" " alt="" coords="519,5,651,32"/>
+<area shape="rect" id="node3" href="$keyboard_8h.html#aea970a154161a35f6894898a092ed70a" title="Handles interrupts from KBC." alt="" coords="555,56,615,83"/>
+<area shape="rect" id="node7" href="$keyboard_8h.html#ab21e4e29ece35ac8a314a6d924f61882" title=" " alt="" coords="516,107,655,133"/>
+<area shape="rect" id="node8" href="$mouse_8h.html#ac13ad81d843b4d50815de4b20a28db53" title="Disables mouse data reporting." alt="" coords="308,142,449,183"/>
+<area shape="rect" id="node10" href="$mouse_8h.html#a108813d01ba189cc8bb0dca728c932a8" title="Enables mouse data reporting." alt="" coords="289,208,468,235"/>
+<area shape="rect" id="node12" href="$mouse_8h.html#adf787e0f096788681cfdae953d637408" title="Writes data to mouse." alt="" coords="538,259,633,285"/>
+<area shape="rect" id="node4" href="$game_8h.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="347,73,410,100"/>
+<area shape="rect" id="node5" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,87,241,113"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,149,115,176"/>
+<area shape="rect" id="node9" href="$game_8h.html#afd3595051be2709847c2de4352f27cf5" title="Restores all data changed, frees memory and sets text mode." alt="" coords="171,149,233,176"/>
+<area shape="rect" id="node11" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="171,204,233,231"/>
+</map>

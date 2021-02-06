@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['main_427',['main',['../proj_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'proj.c']]],
+  ['map_5fvr_428',['map_vr',['../video__gr_8c.html#ac897340cf634de334690b06519f1b267',1,'map_vr(vbe_mode_info_t mode_info):&#160;video_gr.c'],['../video__gr_8h.html#ac897340cf634de334690b06519f1b267',1,'map_vr(vbe_mode_info_t mode_info):&#160;video_gr.c']]],
+  ['mouse_5fdisable_5fdata_5freport_429',['mouse_disable_data_report',['../mouse_8c.html#ac13ad81d843b4d50815de4b20a28db53',1,'mouse_disable_data_report():&#160;mouse.c'],['../mouse_8h.html#ac13ad81d843b4d50815de4b20a28db53',1,'mouse_disable_data_report():&#160;mouse.c']]],
+  ['mouse_5fenable_5fdata_5freport_430',['mouse_enable_data_report',['../mouse_8c.html#a108813d01ba189cc8bb0dca728c932a8',1,'mouse_enable_data_report():&#160;mouse.c'],['../mouse_8h.html#a108813d01ba189cc8bb0dca728c932a8',1,'mouse_enable_data_report():&#160;mouse.c']]],
+  ['mouse_5fevents_5fhandler_431',['mouse_events_handler',['../game__ctrl_8c.html#af402c930684d5c88ca8088a8b40647c5',1,'mouse_events_handler():&#160;game_ctrl.c'],['../game__ctrl_8h.html#af402c930684d5c88ca8088a8b40647c5',1,'mouse_events_handler():&#160;game_ctrl.c']]],
+  ['mouse_5fevents_5fhandler_5fwhile_5fplaying_432',['mouse_events_handler_while_playing',['../game__ctrl_8c.html#abe4adf18fedc343dbe650025505c882f',1,'mouse_events_handler_while_playing():&#160;game_ctrl.c'],['../game__ctrl_8h.html#abe4adf18fedc343dbe650025505c882f',1,'mouse_events_handler_while_playing():&#160;game_ctrl.c']]],
+  ['mouse_5fih_433',['mouse_ih',['../mouse_8c.html#a210374b50462acdedab00df64d5cea3c',1,'mouse_ih():&#160;mouse.c'],['../mouse_8h.html#a210374b50462acdedab00df64d5cea3c',1,'mouse_ih():&#160;mouse.c']]],
+  ['mouse_5fint_434',['mouse_int',['../kbc_8c.html#a3a68562801f980df0654d8dd46826a4b',1,'mouse_int():&#160;kbc.c'],['../kbc_8h.html#a3a68562801f980df0654d8dd46826a4b',1,'mouse_int():&#160;kbc.c']]],
+  ['mouse_5fprocess_5fbyte_435',['mouse_process_byte',['../mouse_8c.html#ae5532e4c44b3f1a551162b36e6e4ad0f',1,'mouse_process_byte():&#160;mouse.c'],['../mouse_8h.html#ae5532e4c44b3f1a551162b36e6e4ad0f',1,'mouse_process_byte():&#160;mouse.c']]],
+  ['mouse_5fsubscribe_5fint_436',['mouse_subscribe_int',['../mouse_8c.html#a20285aed4b3ef45812cd967532dd09db',1,'mouse_subscribe_int(uint8_t *bit_no):&#160;mouse.c'],['../mouse_8h.html#a20285aed4b3ef45812cd967532dd09db',1,'mouse_subscribe_int(uint8_t *bit_no):&#160;mouse.c']]],
+  ['mouse_5funsubscribe_5fint_437',['mouse_unsubscribe_int',['../mouse_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3',1,'mouse_unsubscribe_int():&#160;mouse.c'],['../mouse_8h.html#a3ecf823d80520009ae5e0d76ae40a3c3',1,'mouse_unsubscribe_int():&#160;mouse.c']]],
+  ['mouse_5fwrite_438',['mouse_write',['../mouse_8c.html#adf787e0f096788681cfdae953d637408',1,'mouse_write(uint8_t cmd):&#160;mouse.c'],['../mouse_8h.html#adf787e0f096788681cfdae953d637408',1,'mouse_write(uint8_t cmd):&#160;mouse.c']]],
+  ['move_5fsanta_5fkeyboard_439',['move_santa_keyboard',['../game__ctrl_8c.html#a56b26df956ebff7e21f1d637fa8d25a2',1,'move_santa_keyboard():&#160;game_ctrl.c'],['../game__ctrl_8h.html#a56b26df956ebff7e21f1d637fa8d25a2',1,'move_santa_keyboard():&#160;game_ctrl.c']]],
+  ['move_5fsanta_5fmouse_440',['move_santa_mouse',['../game__ctrl_8c.html#ace4a6c7692295e7a783cd1f2cbd9b47e',1,'move_santa_mouse():&#160;game_ctrl.c'],['../game__ctrl_8h.html#ace4a6c7692295e7a783cd1f2cbd9b47e',1,'move_santa_mouse():&#160;game_ctrl.c']]]
+];

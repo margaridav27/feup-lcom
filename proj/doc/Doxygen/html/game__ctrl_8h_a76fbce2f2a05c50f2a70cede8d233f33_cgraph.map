@@ -1,0 +1,9 @@
+<map id="update_display_player" name="update_display_player">
+<area shape="rect" id="node1" title="Displays the player sprite." alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="209,5,297,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="205,56,300,83"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="204,107,301,133"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="473,31,550,57"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="349,81,424,108"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="472,81,551,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="display_cronometer" name="display_cronometer">
+<area shape="rect" id="node1" title="Displays the game time count down." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="188,31,283,57"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="453,56,532,83"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="454,5,531,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="331,31,405,57"/>
+</map>

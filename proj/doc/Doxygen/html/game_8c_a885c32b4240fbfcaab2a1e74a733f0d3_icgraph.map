@@ -1,0 +1,7 @@
+<map id="get_sprite" name="get_sprite">
+<area shape="rect" id="node1" title="Creates a sprite from a xpm file." alt="" coords="432,31,511,57"/>
+<area shape="rect" id="node2" href="$game_8h.html#ac82e7d55ed069f5d0c396c20b97337e9" title="Load all the xpms to sprites and allocates them." alt="" coords="299,5,384,32"/>
+<area shape="rect" id="node5" href="$game_8h.html#a201f65f3d921ab7418f95285aed78d1d" title="Sets graphic mode." alt="" coords="163,56,251,83"/>
+<area shape="rect" id="node3" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="176,5,237,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1552,115,1578"/>
+<area shape="rect" id="node2" href="$game_8c.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,357,241,384"/>
+<area shape="rect" id="node29" href="$game_8c.html#afd3595051be2709847c2de4352f27cf5" title="Restores all data changed, frees memory and sets text mode." alt="" coords="171,1488,233,1514"/>
+<area shape="rect" id="node36" href="$game_8c.html#a201f65f3d921ab7418f95285aed78d1d" title="Sets graphic mode." alt="" coords="335,1690,423,1717"/>
+<area shape="rect" id="node40" href="$game_8c.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="171,1918,233,1945"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a9d90029840aa18ef09254e257ccf8f8a" title="Checks if the output buffer is full and therefore if there is any data to be read." alt="" coords="770,53,851,80"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="969,180,1060,206"/>
+<area shape="rect" id="node5" href="$game__ctrl_8c.html#af402c930684d5c88ca8088a8b40647c5" title="changes game state according to mouse&#39;s input" alt="" coords="733,1168,888,1194"/>
+<area shape="rect" id="node8" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Handles interrupts from mouse." alt="" coords="771,306,850,333"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#ae5532e4c44b3f1a551162b36e6e4ad0f" title="Parses information of the mouse packet received." alt="" coords="737,661,884,688"/>
+<area shape="rect" id="node10" href="$game_8c.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="347,788,410,814"/>
+<area shape="rect" id="node19" href="$game__ctrl_8c.html#adcaf3dad272a0c5e8d9ffa89823ede2a" title="Updates cursor&#39;s position." alt="" coords="759,509,863,536"/>
+<area shape="rect" id="node24" href="$game__ctrl_8c.html#a68b5abae311daec27ec69db36b08e43f" title="Handles all the changes that must be done periodically such as displays and updates." alt="" coords="528,1218,672,1245"/>
+<area shape="rect" id="node26" href="$rtc_8c.html#ae33c7af474bbc0421df65a943829041d" title="Handles interrupts of the specified source from RTC." alt="" coords="351,180,406,206"/>
+<area shape="rect" id="node6" href="$game__ctrl_8c.html#a489181f433b47ad63c2cf3bd191c6b69" title="Checks whether or not the a certain button (received as parameter) was pressed." alt="" coords="965,1197,1065,1224"/>
+<area shape="rect" id="node7" href="$game__ctrl_8c.html#abe4adf18fedc343dbe650025505c882f" title="Changes santa state according to mouse&#39;s input." alt="" coords="937,1131,1092,1172"/>
+<area shape="rect" id="node11" href="$game__ctrl_8c.html#a58fb6ed5a25b6d43b4f14ec847d5916f" title="Check if the game conditions to verify if it time to end and changes game state accordingly." alt="" coords="549,509,651,536"/>
+<area shape="rect" id="node12" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title="Handles interrupts from KBC." alt="" coords="570,560,630,586"/>
+<area shape="rect" id="node13" href="$game__ctrl_8c.html#a78c58196ae4a4b78d38e4cff7cacc179" title="Changes game state and backgrounds according to keyboard&#39;s input." alt="" coords="516,610,684,637"/>
+<area shape="rect" id="node14" href="$game__ctrl_8c.html#a56b26df956ebff7e21f1d637fa8d25a2" title="Checks the player&#39;s moves, keyboard input,and updates the sprite displayed accordingly." alt="" coords="525,914,675,941"/>
+<area shape="rect" id="node15" href="$game__ctrl_8c.html#afde6299af1d913b49962a8f692b1434d" title="Changes the player sprite displayed with the sprite passed as parameter." alt="" coords="771,864,850,890"/>
+<area shape="rect" id="node16" href="$game__ctrl_8c.html#a1b7d800d6e3d179443fe2f165e0ad481" title="Displays the background whilst playing mode." alt="" coords="732,940,889,966"/>
+<area shape="rect" id="node17" href="$game__ctrl_8c.html#ace4a6c7692295e7a783cd1f2cbd9b47e" title="Checks the player&#39;s moves, mouse input,and updates the sprite displayed accordingly." alt="" coords="531,864,669,890"/>
+<area shape="rect" id="node18" href="$game_8c.html#ad74637df8ab081f644cb8f2175df273f" title="Pause menu loop." alt="" coords="571,661,629,688"/>
+<area shape="rect" id="node20" href="$game__ctrl_8c.html#aa2eb9ba074b23fc3b4a91c98e0c83c8b" title="Displays the background and cursor." alt="" coords="756,737,865,764"/>
+<area shape="rect" id="node21" href="$game__ctrl_8c.html#a460edbaf26ab4efc74c0bf455317f57a" title="Resets cronometer array to its defaul 4 minutes." alt="" coords="749,1028,872,1054"/>
+<area shape="rect" id="node22" href="$game__ctrl_8c.html#abe2f9205ae983b0707a9759e3876ea3b" title="Resets presents." alt="" coords="757,1092,865,1118"/>
+<area shape="rect" id="node23" href="$game__ctrl_8c.html#ad5a5b1c146b6104dd1b470552869b7a7" title="Resets player&#39;s initial position." alt="" coords="555,1066,645,1093"/>
+<area shape="rect" id="node25" href="$timer_8c.html#a91a2072306c68353712a6b771287dc2c" title=" " alt="" coords="539,458,661,485"/>
+<area shape="rect" id="node27" href="$rtc_8c.html#ab18926f2a361c4e867d2632946c6d2f6" title="Reads the time information and outputs it to the proper data structure." alt="" coords="549,154,651,181"/>
+<area shape="rect" id="node28" href="$rtc_8c.html#aeaa3a089f90cc0df984d26b0d97bb543" title="Checks if one can read from RTC, meaning bit 7 of register A is not set." alt="" coords="743,205,879,232"/>
+<area shape="rect" id="node30" href="$keyboard_8c.html#a1102381e6a9e876e05dd78c58ccb5673" title="Unsubscribes KBC interrupts by calling sys_rmsetpolicy()" alt="" coords="308,1370,449,1397"/>
+<area shape="rect" id="node31" href="$mouse_8c.html#ac13ad81d843b4d50815de4b20a28db53" title="Disables mouse data reporting." alt="" coords="308,1422,449,1463"/>
+<area shape="rect" id="node32" href="$mouse_8c.html#a3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts by calling sys_rmsetpolicy()" alt="" coords="299,1488,458,1514"/>
+<area shape="rect" id="node33" href="$rtc_8c.html#a4e08b1ce7105690f3ad7f6fb23c47437" title="Disables RTC interrupts of the specified source." alt="" coords="754,1269,867,1296"/>
+<area shape="rect" id="node34" href="$rtc_8c.html#ab8f17bf5280c908c8b199a90fefcc758" title="Unsubscribes RTC interrupts by calling sys_rmsetpolicy()" alt="" coords="311,1538,446,1565"/>
+<area shape="rect" id="node35" href="$timer_8c.html#afabd21de449be154dd65d5fdb2d8045d" title=" " alt="" coords="304,1589,453,1616"/>
+<area shape="rect" id="node37" href="$game__ctrl_8c.html#a8d41c12af4f6e6faad84e1f21f99b3e1" title="Displays the loading background." alt="" coords="557,2070,643,2097"/>
+<area shape="rect" id="node38" href="$game_8c.html#a885c32b4240fbfcaab2a1e74a733f0d3" title="Creates a sprite from a xpm file." alt="" coords="561,1842,639,1869"/>
+<area shape="rect" id="node39" href="$video__gr_8c.html#aa6c1ff5024cd4d15e476bce487584daa" title="Initializes the video module in graphics mode." alt="" coords="571,1690,629,1717"/>
+<area shape="rect" id="node41" href="$keyboard_8c.html#a02884ada1971dbade466081413210b18" title="Subscribes KBC interrupts by calling sys_irqsetpolicy()" alt="" coords="315,1741,442,1768"/>
+<area shape="rect" id="node42" href="$game_8c.html#ac82e7d55ed069f5d0c396c20b97337e9" title="Load all the xpms to sprites and allocates them." alt="" coords="336,1944,421,1970"/>
+<area shape="rect" id="node43" href="$mouse_8c.html#a108813d01ba189cc8bb0dca728c932a8" title="Enables mouse data reporting." alt="" coords="289,1792,468,1818"/>
+<area shape="rect" id="node44" href="$mouse_8c.html#a20285aed4b3ef45812cd967532dd09db" title="Subscribes mouse interrupts by calling sys_irqsetpolicy()" alt="" coords="306,1842,451,1869"/>
+<area shape="rect" id="node45" href="$rtc_8c.html#ae075416c1ec70e87c51a1ddb5a7b9a0c" title="Enables RTC interrupts of the specified source." alt="" coords="755,1505,866,1532"/>
+<area shape="rect" id="node46" href="$rtc_8c.html#a5171a9c0f54940fe60f7500896afcc86" title="Subscribes RTC interrupts by calling sys_irqsetpolicy()" alt="" coords="318,1893,439,1920"/>
+<area shape="rect" id="node47" href="$game_8c.html#a95edbf924168631347cacfaf4c3c226f" title="Sets the buttons&#39;s positions." alt="" coords="333,2146,424,2173"/>
+<area shape="rect" id="node48" href="$game_8c.html#a9faa47e1e7764275b1092fcc3dbb3f2f" title="Sets the platforms&#39;s positions." alt="" coords="329,2197,429,2224"/>
+<area shape="rect" id="node49" href="$game_8c.html#ac1d6bd6181518ec126e1f66cf20e1134" title="Sets the present&#39;s positions." alt="" coords="330,2096,427,2122"/>
+<area shape="rect" id="node50" href="$timer_8c.html#ac57a7e1140a7e00ad95ac5488d2a671b" title=" " alt="" coords="311,1994,446,2021"/>
+</map>

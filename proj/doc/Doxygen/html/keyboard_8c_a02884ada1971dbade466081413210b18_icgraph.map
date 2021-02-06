@@ -1,0 +1,5 @@
+<map id="kbc_subscribe_int" name="kbc_subscribe_int">
+<area shape="rect" id="node1" title="Subscribes KBC interrupts by calling sys_irqsetpolicy()" alt="" coords="272,5,399,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="163,5,224,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

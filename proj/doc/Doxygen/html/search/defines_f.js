@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sea_5fback_5fx0_682',['SEA_BACK_X0',['../macros_8h.html#ae543d3152ef9c1b8033ee401003ac206',1,'macros.h']]],
+  ['sea_5fmiddle_5fx0_683',['SEA_MIDDLE_X0',['../macros_8h.html#af16a10a8e6d54c74e1f89ef964b626b6',1,'macros.h']]],
+  ['second_5fticks_684',['SECOND_TICKS',['../macros_8h.html#a3b769fafbc3f83a34f11b7dcc6e9892e',1,'macros.h']]],
+  ['set_5fdefaults_685',['SET_DEFAULTS',['../macros_8h.html#a4c097326c3dae6e55fd7fe3b7ff516a8',1,'macros.h']]],
+  ['set_5fremote_5fmode_686',['SET_REMOTE_MODE',['../macros_8h.html#a19a57d9d2eafd32ee130c0f526906719',1,'macros.h']]],
+  ['set_5fsample_5frate_687',['SET_SAMPLE_RATE',['../macros_8h.html#a7f57224ffb2b6d5adfc1e4cb0118c7f9',1,'macros.h']]],
+  ['set_5fstream_5fmode_688',['SET_STREAM_MODE',['../macros_8h.html#aabf49b4a4d8ad72d202c8a7197058e35',1,'macros.h']]],
+  ['speaker_5fctrl_689',['SPEAKER_CTRL',['../macros_8h.html#a51b3a5e3d4811ca063fe25e35560ab40',1,'macros.h']]],
+  ['start_690',['START',['../macros_8h.html#a3018c7600b7bb9866400596a56a57af7',1,'macros.h']]],
+  ['status_5frequest_691',['STATUS_REQUEST',['../macros_8h.html#ab74d8cf9ec50650fee5058cb33a9160e',1,'macros.h']]],
+  ['step_5fjump_5fx_692',['STEP_JUMP_X',['../macros_8h.html#adc05f2214f4afaeaa2ba77550ca822ab',1,'macros.h']]],
+  ['step_5fjump_5fy_693',['STEP_JUMP_Y',['../macros_8h.html#a1dc8128f876c232eeb8891db6e3e0781',1,'macros.h']]],
+  ['step_5fkb_694',['STEP_KB',['../macros_8h.html#a89c03c4d7c8c55681ae69d5f3e1d9dec',1,'macros.h']]],
+  ['step_5ftxt_695',['STEP_TXT',['../macros_8h.html#ab002fa29310618f52d163766f2b1ab1c',1,'macros.h']]],
+  ['stream_696',['STREAM',['../macros_8h.html#aa57974323bef0262551029d83546b8e9',1,'macros.h']]],
+  ['swipe_5fleft_697',['SWIPE_LEFT',['../macros_8h.html#a9e274f1390f8ca9649548c2d297fc36e',1,'macros.h']]],
+  ['swipe_5fright_698',['SWIPE_RIGHT',['../macros_8h.html#a442dcdfe1ee7fc34ee1e7ef3d391fc75',1,'macros.h']]]
+];

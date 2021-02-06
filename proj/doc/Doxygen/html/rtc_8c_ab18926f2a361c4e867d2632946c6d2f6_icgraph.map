@@ -1,0 +1,6 @@
+<map id="rtc_read_time" name="rtc_read_time">
+<area shape="rect" id="node1" title="Reads the time information and outputs it to the proper data structure." alt="" coords="392,5,493,32"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#ae33c7af474bbc0421df65a943829041d" title="Handles interrupts of the specified source from RTC." alt="" coords="289,5,344,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,5,241,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

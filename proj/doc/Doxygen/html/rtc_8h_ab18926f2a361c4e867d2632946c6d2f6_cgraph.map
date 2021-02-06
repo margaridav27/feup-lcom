@@ -1,0 +1,8 @@
+<map id="rtc_read_time" name="rtc_read_time">
+<area shape="rect" id="node1" title="Reads the time information and outputs it to the proper data structure." alt="" coords="5,107,107,133"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="168,5,277,32"/>
+<area shape="rect" id="node3" href="$rtc_8c.html#aeaa3a089f90cc0df984d26b0d97bb543" title="Checks if one can read from RTC, meaning bit 7 of register A is not set." alt="" coords="155,157,291,184"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a5134ed87587575deb583fb081d586d6f" title="Writes to RTC port 0x70." alt="" coords="339,107,473,133"/>
+<area shape="rect" id="node5" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="361,157,451,184"/>
+<area shape="rect" id="node6" href="$rtc_8c.html#a6fa973d346d15a88d368e39743b67d85" title="Sets RTC to ouput data in BCD format." alt="" coords="175,107,271,133"/>
+</map>

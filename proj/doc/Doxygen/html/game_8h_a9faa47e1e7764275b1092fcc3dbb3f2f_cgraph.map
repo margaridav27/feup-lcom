@@ -1,0 +1,10 @@
+<map id="set_platforms" name="set_platforms">
+<area shape="rect" id="node1" title="Sets the platforms&#39;s positions." alt="" coords="5,56,105,83"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a8d41c12af4f6e6faad84e1f21f99b3e1" title="Displays the loading background." alt="" coords="153,56,240,83"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="293,5,381,32"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="289,56,384,83"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="288,107,385,133"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="557,31,634,57"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="433,81,508,108"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="556,81,635,108"/>
+</map>

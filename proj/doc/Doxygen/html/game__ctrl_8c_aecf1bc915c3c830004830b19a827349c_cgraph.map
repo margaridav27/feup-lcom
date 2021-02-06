@@ -1,0 +1,6 @@
+<map id="check_collision" name="check_collision">
+<area shape="rect" id="node1" title="Checks the player&#39;s colisions and changes its position accordingly (incrementing the position with th..." alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a4bf6dacf47702696c02be6d41c134d35" title="Verifies if the player is standing in a platform." alt="" coords="164,5,304,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="195,56,273,83"/>
+<area shape="rect" id="node4" href="$game__ctrl_8c.html#afde6299af1d913b49962a8f692b1434d" title="Changes the player sprite displayed with the sprite passed as parameter." alt="" coords="195,107,273,133"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="node1" title=" " alt="" coords="880,271,971,298"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a9d90029840aa18ef09254e257ccf8f8a" title="Checks if the output buffer is full and therefore if there is any data to be read." alt="" coords="315,258,396,284"/>
+<area shape="rect" id="node3" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="163,290,241,316"/>
+<area shape="rect" id="node5" href="$kbc_8h.html#af2e8635539ea217a847ef90c3cf5d714" title="Reads from OUTPUT BUFFER and stores it in arg." alt="" coords="727,600,801,627"/>
+<area shape="rect" id="node15" href="$kbc_8h.html#a6da15cccd098edde3a7c6fec6da4a8ef" title="Writes cmd in port register." alt="" coords="725,710,803,736"/>
+<area shape="rect" id="node18" href="$mouse_8h.html#a210374b50462acdedab00df64d5cea3c" title="Handles interrupts from mouse." alt="" coords="725,322,803,348"/>
+<area shape="rect" id="node20" href="$kbc_8h.html#a3a68562801f980df0654d8dd46826a4b" title="checks if the kbc interruption is from the mouse" alt="" coords="723,811,805,838"/>
+<area shape="rect" id="node21" href="$rtc_8h.html#a4e08b1ce7105690f3ad7f6fb23c47437" title="Disables RTC interrupts of the specified source." alt="" coords="707,423,821,450"/>
+<area shape="rect" id="node22" href="$rtc_8h.html#ae075416c1ec70e87c51a1ddb5a7b9a0c" title="Enables RTC interrupts of the specified source." alt="" coords="709,760,819,787"/>
+<area shape="rect" id="node23" href="$rtc_8h.html#ae33c7af474bbc0421df65a943829041d" title="Handles interrupts of the specified source from RTC." alt="" coords="328,119,383,146"/>
+<area shape="rect" id="node24" href="$rtc_8h.html#ab18926f2a361c4e867d2632946c6d2f6" title="Reads the time information and outputs it to the proper data structure." alt="" coords="508,43,609,70"/>
+<area shape="rect" id="node25" href="$rtc_8h.html#aeaa3a089f90cc0df984d26b0d97bb543" title="Checks if one can read from RTC, meaning bit 7 of register A is not set." alt="" coords="696,94,832,120"/>
+<area shape="rect" id="node26" href="$rtc_8h.html#a6fa973d346d15a88d368e39743b67d85" title="Sets RTC to ouput data in BCD format." alt="" coords="716,43,812,70"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,515,115,542"/>
+<area shape="rect" id="node6" href="$keyboard_8h.html#a48e2652c229f5bada9349d964a857f92" title=" " alt="" coords="289,659,421,686"/>
+<area shape="rect" id="node7" href="$keyboard_8h.html#aea970a154161a35f6894898a092ed70a" title="Handles interrupts from KBC." alt="" coords="529,499,589,526"/>
+<area shape="rect" id="node9" href="$keyboard_8h.html#ab21e4e29ece35ac8a314a6d924f61882" title=" " alt="" coords="489,550,628,576"/>
+<area shape="rect" id="node10" href="$mouse_8h.html#ac13ad81d843b4d50815de4b20a28db53" title="Disables mouse data reporting." alt="" coords="488,702,629,744"/>
+<area shape="rect" id="node12" href="$mouse_8h.html#a108813d01ba189cc8bb0dca728c932a8" title="Enables mouse data reporting." alt="" coords="469,768,648,795"/>
+<area shape="rect" id="node14" href="$mouse_8h.html#adf787e0f096788681cfdae953d637408" title="Writes data to mouse." alt="" coords="511,651,606,678"/>
+<area shape="rect" id="node8" href="$game_8h.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="324,322,387,348"/>
+<area shape="rect" id="node11" href="$game_8h.html#afd3595051be2709847c2de4352f27cf5" title="Restores all data changed, frees memory and sets text mode." alt="" coords="324,515,387,542"/>
+<area shape="rect" id="node13" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="325,768,386,795"/>
+<area shape="rect" id="node16" href="$keyboard_8h.html#a978c37bd6eca1b2724372aee45770670" title=" " alt="" coords="486,870,631,896"/>
+<area shape="rect" id="node17" href="$keyboard_8h.html#a9e31da8b9a8ac93bb8c7ee5fcd25441e" title=" " alt="" coords="481,819,636,846"/>
+<area shape="rect" id="node19" href="$game_8h.html#ad74637df8ab081f644cb8f2175df273f" title="Pause menu loop." alt="" coords="530,347,587,374"/>
+</map>

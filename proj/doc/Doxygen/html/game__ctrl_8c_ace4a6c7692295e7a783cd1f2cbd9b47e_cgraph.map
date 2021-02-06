@@ -1,0 +1,4 @@
+<map id="move_santa_mouse" name="move_santa_mouse">
+<area shape="rect" id="node1" title="Checks the player&#39;s moves, mouse input,and updates the sprite displayed accordingly." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#afde6299af1d913b49962a8f692b1434d" title="Changes the player sprite displayed with the sprite passed as parameter." alt="" coords="191,5,269,32"/>
+</map>

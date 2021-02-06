@@ -1,0 +1,5 @@
+<map id="rtc_reading_allowed" name="rtc_reading_allowed">
+<area shape="rect" id="node1" title="Checks if one can read from RTC, meaning bit 7 of register A is not set." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a5134ed87587575deb583fb081d586d6f" title="Writes to RTC port 0x70." alt="" coords="189,5,324,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="211,56,302,83"/>
+</map>

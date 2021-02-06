@@ -1,0 +1,5 @@
+<map id="mouse_unsubscribe_int" name="mouse_unsubscribe_int">
+<area shape="rect" id="node1" title="Unsubscribes mouse interrupts by calling sys_rmsetpolicy()" alt="" coords="273,5,432,32"/>
+<area shape="rect" id="node2" href="$game_8h.html#afd3595051be2709847c2de4352f27cf5" title="Restores all data changed, frees memory and sets text mode." alt="" coords="163,5,225,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

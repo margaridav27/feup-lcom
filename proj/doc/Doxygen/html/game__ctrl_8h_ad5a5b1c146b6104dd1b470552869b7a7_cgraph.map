@@ -1,0 +1,5 @@
+<map id="reset_santa" name="reset_santa">
+<area shape="rect" id="node1" title="Resets player&#39;s initial position." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a460edbaf26ab4efc74c0bf455317f57a" title="Resets cronometer array to its defaul 4 minutes." alt="" coords="144,5,267,32"/>
+<area shape="rect" id="node3" href="$game__ctrl_8c.html#abe2f9205ae983b0707a9759e3876ea3b" title="Resets presents." alt="" coords="151,56,259,83"/>
+</map>

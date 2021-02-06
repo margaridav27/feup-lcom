@@ -1,0 +1,21 @@
+<map id="pause" name="pause">
+<area shape="rect" id="node1" title="Pause menu loop." alt="" coords="5,173,63,200"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#af402c930684d5c88ca8088a8b40647c5" title="changes game state according to mouse&#39;s input" alt="" coords="111,64,265,91"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title="Handles interrupts from mouse." alt="" coords="149,123,227,149"/>
+<area shape="rect" id="node7" href="$mouse_8c.html#ae5532e4c44b3f1a551162b36e6e4ad0f" title="Parses information of the mouse packet received." alt="" coords="115,173,261,200"/>
+<area shape="rect" id="node8" href="$game__ctrl_8c.html#adcaf3dad272a0c5e8d9ffa89823ede2a" title="Updates cursor&#39;s position." alt="" coords="670,351,774,377"/>
+<area shape="rect" id="node11" href="$game__ctrl_8c.html#aa2eb9ba074b23fc3b4a91c98e0c83c8b" title="Displays the background and cursor." alt="" coords="133,224,243,251"/>
+<area shape="rect" id="node3" href="$game__ctrl_8c.html#a489181f433b47ad63c2cf3bd191c6b69" title="Checks whether or not the a certain button (received as parameter) was pressed." alt="" coords="341,5,441,32"/>
+<area shape="rect" id="node4" href="$game__ctrl_8c.html#abe4adf18fedc343dbe650025505c882f" title="Changes santa state according to mouse&#39;s input." alt="" coords="313,57,468,98"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title=" " alt="" coords="345,123,436,149"/>
+<area shape="rect" id="node9" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="833,249,912,276"/>
+<area shape="rect" id="node10" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="834,300,911,327"/>
+<area shape="rect" id="node12" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="347,275,435,301"/>
+<area shape="rect" id="node13" href="$game__ctrl_8c.html#a4eb8933c334d8d88e9ff0b0d1152951c" title="Displays the real time." alt="" coords="343,173,438,200"/>
+<area shape="rect" id="node14" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="516,237,611,264"/>
+<area shape="rect" id="node19" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="342,325,439,352"/>
+<area shape="rect" id="node16" href="$game__ctrl_8c.html#ad61a080e275c71ef3e109c0a28cf9ab7" title="Updates the time array." alt="" coords="517,173,610,200"/>
+<area shape="rect" id="node15" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="685,249,759,276"/>
+<area shape="rect" id="node17" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="667,148,777,175"/>
+<area shape="rect" id="node18" href="$rtc_8c.html#a9e906fff7476aab5ce431a977ef3033d" title=" " alt="" coords="659,199,785,225"/>
+</map>

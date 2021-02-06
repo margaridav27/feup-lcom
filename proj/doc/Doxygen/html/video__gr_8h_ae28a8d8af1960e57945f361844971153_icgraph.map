@@ -1,0 +1,23 @@
+<map id="display_xpm" name="display_xpm">
+<area shape="rect" id="node1" title="Renders image to the specified buffer." alt="" coords="1081,208,1176,235"/>
+<area shape="rect" id="node2" href="$game__ctrl_8h.html#af71f6c832cea1cc6ff00b243c0ecaa46" title="Registers the capture of a present and removes the catched present from display." alt="" coords="890,5,994,32"/>
+<area shape="rect" id="node3" href="$game__ctrl_8h.html#a97a9784941141d4e16eada735eee1493" title="Displays the game time count down." alt="" coords="875,208,1009,235"/>
+<area shape="rect" id="node4" href="$game__ctrl_8h.html#a1b7d800d6e3d179443fe2f165e0ad481" title="Displays the background whilst playing mode." alt="" coords="645,208,803,235"/>
+<area shape="rect" id="node9" href="$game__ctrl_8h.html#a8d41c12af4f6e6faad84e1f21f99b3e1" title="Displays the loading background." alt="" coords="479,309,565,336"/>
+<area shape="rect" id="node16" href="$game__ctrl_8h.html#a571515a2c4f1ee4512065811313c88ee" title="Displays the presents." alt="" coords="882,157,1002,184"/>
+<area shape="rect" id="node17" href="$game__ctrl_8h.html#a4eb8933c334d8d88e9ff0b0d1152951c" title="Displays the real time." alt="" coords="895,107,989,133"/>
+<area shape="rect" id="node18" href="$game__ctrl_8h.html#aa2eb9ba074b23fc3b4a91c98e0c83c8b" title="Displays the background and cursor." alt="" coords="669,81,779,108"/>
+<area shape="rect" id="node20" href="$game__ctrl_8h.html#abf3fa7cbf97bae17adab3bf74d0e6b55" title="Displays the instructions menu." alt="" coords="851,360,1033,387"/>
+<area shape="rect" id="node21" href="$game__ctrl_8h.html#a76fbce2f2a05c50f2a70cede8d233f33" title="Displays the player sprite." alt="" coords="867,411,1017,437"/>
+<area shape="rect" id="node5" href="$game__ctrl_8h.html#a56b26df956ebff7e21f1d637fa8d25a2" title="Checks the player&#39;s moves, keyboard input,and updates the sprite displayed accordingly." alt="" coords="447,220,597,247"/>
+<area shape="rect" id="node6" href="$game_8h.html#aed6c9030a1f095f7474c4da4a679f381" title="Playing game loop." alt="" coords="317,119,380,145"/>
+<area shape="rect" id="node7" href="$game_8h.html#a98396a1f6335b374d8b9bd3cd5376a6a" title="Main game loop." alt="" coords="167,169,246,196"/>
+<area shape="rect" id="node8" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,271,115,297"/>
+<area shape="rect" id="node10" href="$game_8h.html#ac82e7d55ed069f5d0c396c20b97337e9" title="Load all the xpms to sprites and allocates them." alt="" coords="306,271,391,297"/>
+<area shape="rect" id="node11" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="176,271,237,297"/>
+<area shape="rect" id="node12" href="$game_8h.html#a95edbf924168631347cacfaf4c3c226f" title="Sets the buttons&#39;s positions." alt="" coords="303,372,394,399"/>
+<area shape="rect" id="node13" href="$game_8h.html#a201f65f3d921ab7418f95285aed78d1d" title="Sets graphic mode." alt="" coords="163,372,251,399"/>
+<area shape="rect" id="node14" href="$game_8h.html#a9faa47e1e7764275b1092fcc3dbb3f2f" title="Sets the platforms&#39;s positions." alt="" coords="299,169,399,196"/>
+<area shape="rect" id="node15" href="$game_8h.html#ac1d6bd6181518ec126e1f66cf20e1134" title="Sets the present&#39;s positions." alt="" coords="300,220,397,247"/>
+<area shape="rect" id="node19" href="$game_8h.html#ad74637df8ab081f644cb8f2175df273f" title="Pause menu loop." alt="" coords="493,68,551,95"/>
+</map>

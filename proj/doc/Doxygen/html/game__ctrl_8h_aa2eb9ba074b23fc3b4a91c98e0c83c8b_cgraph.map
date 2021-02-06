@@ -1,0 +1,13 @@
+<map id="update_display" name="update_display">
+<area shape="rect" id="node1" title="Displays the background and cursor." alt="" coords="5,81,115,108"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="167,5,255,32"/>
+<area shape="rect" id="node3" href="$game__ctrl_8c.html#a4eb8933c334d8d88e9ff0b0d1152951c" title="Displays the real time." alt="" coords="164,107,259,133"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="308,56,403,83"/>
+<area shape="rect" id="node11" href="$video__gr_8c.html#a8e70066b17adcaa814aab935b4262774" title="Handles double buffering." alt="" coords="163,157,260,184"/>
+<area shape="rect" id="node7" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="625,95,704,121"/>
+<area shape="rect" id="node8" href="$game__ctrl_8c.html#ad61a080e275c71ef3e109c0a28cf9ab7" title="Updates the time array." alt="" coords="309,157,402,184"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="626,19,703,45"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="477,56,551,83"/>
+<area shape="rect" id="node9" href="$rtc_8c.html#a0de06c21045e3533eae7a7b18c280714" title="Converts value in BCD to binary." alt="" coords="459,157,569,184"/>
+<area shape="rect" id="node10" href="$rtc_8c.html#a9e906fff7476aab5ce431a977ef3033d" title=" " alt="" coords="451,208,577,235"/>
+</map>

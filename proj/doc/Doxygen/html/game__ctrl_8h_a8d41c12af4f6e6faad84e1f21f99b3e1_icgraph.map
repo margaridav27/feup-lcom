@@ -1,0 +1,10 @@
+<map id="display_init" name="display_init">
+<area shape="rect" id="node1" title="Displays the loading background." alt="" coords="447,132,533,159"/>
+<area shape="rect" id="node2" href="$game_8h.html#ac82e7d55ed069f5d0c396c20b97337e9" title="Load all the xpms to sprites and allocates them." alt="" coords="306,5,391,32"/>
+<area shape="rect" id="node3" href="$game_8h.html#a9f700c57a8358d4eb1c509027f723c42" title="Subscribes interruptions and allocates memory." alt="" coords="176,132,237,159"/>
+<area shape="rect" id="node5" href="$game_8h.html#a95edbf924168631347cacfaf4c3c226f" title="Sets the buttons&#39;s positions." alt="" coords="303,107,394,133"/>
+<area shape="rect" id="node6" href="$game_8h.html#a201f65f3d921ab7418f95285aed78d1d" title="Sets graphic mode." alt="" coords="163,208,251,235"/>
+<area shape="rect" id="node7" href="$game_8h.html#a9faa47e1e7764275b1092fcc3dbb3f2f" title="Sets the platforms&#39;s positions." alt="" coords="299,157,399,184"/>
+<area shape="rect" id="node8" href="$game_8h.html#ac1d6bd6181518ec126e1f66cf20e1134" title="Sets the present&#39;s positions." alt="" coords="300,208,397,235"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,171,115,197"/>
+</map>

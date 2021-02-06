@@ -1,0 +1,4 @@
+<map id="keyboard_events_handler" name="keyboard_events_handler">
+<area shape="rect" id="node1" title="Changes game state and backgrounds according to keyboard&#39;s input." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#a69b75c5decdf0c0bf2f2d44196aa23d6" title="Sets keyboard&#39;s event according to keyboard&#39;s input." alt="" coords="221,5,365,32"/>
+</map>

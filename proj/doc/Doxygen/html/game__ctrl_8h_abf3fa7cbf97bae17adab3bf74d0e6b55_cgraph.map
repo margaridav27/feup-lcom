@@ -1,0 +1,8 @@
+<map id="update_display_instructions" name="update_display_instructions">
+<area shape="rect" id="node1" title="Displays the instructions menu." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$video__gr_8c.html#abd38f0551d9d7a09317121089231954c" title="Clears specified buffer." alt="" coords="239,5,327,32"/>
+<area shape="rect" id="node3" href="$video__gr_8c.html#ae28a8d8af1960e57945f361844971153" title="Renders image to the specified buffer." alt="" coords="236,56,331,83"/>
+<area shape="rect" id="node4" href="$video__gr_8c.html#ab226d056720011120b05e68e5f4d4449" title=" " alt="" coords="502,31,579,57"/>
+<area shape="rect" id="node5" href="$video__gr_8c.html#a7919d44352d3b4b29e5e156ad6e910d4" title="Sets a pixel of the screen accordingly to the value passed as argument." alt="" coords="379,81,453,108"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html#ac19350f0662b5c8fbb1a41e051411014" title=" " alt="" coords="501,81,580,108"/>
+</map>

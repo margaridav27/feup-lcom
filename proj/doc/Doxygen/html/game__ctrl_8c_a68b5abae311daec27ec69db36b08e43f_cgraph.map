@@ -1,0 +1,4 @@
+<map id="timer_events_handler" name="timer_events_handler">
+<area shape="rect" id="node1" title="Handles all the changes that must be done periodically such as displays and updates." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$game__ctrl_8c.html#ab544baafffee12abb6ce174f161e4709" title="updates the sea moving pos" alt="" coords="197,5,315,32"/>
+</map>
