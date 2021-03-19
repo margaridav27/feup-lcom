@@ -1,6 +1,6 @@
 # feup-lcom
 
-Labs and project developed during the semester with Beatriz Aguiar (beatriz-ag, https://github.com/beatriz-ag).
+Labs and project developed during the semester with [Beatriz Aguiar](https://github.com/beatriz-ag)).
 
 
 ## Disclaimer
